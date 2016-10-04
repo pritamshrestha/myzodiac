@@ -1,6 +1,6 @@
 var myzodiac = [
 	{
-		name: "aquarious",
+		name: "aquarius",
 		fortune: "Knowledge, Humanitarian, Serious, Insightful, Duplicitous",
 		image: "img/aquarious.jpg"
 	},
